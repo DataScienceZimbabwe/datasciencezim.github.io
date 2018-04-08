@@ -1,2 +1,2 @@
-title: #Welcome To Data Science Zimbabwe#
+Welcome To Data Science Zimbabwe
 
