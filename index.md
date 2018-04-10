@@ -12,7 +12,7 @@
 <html>
       <div class="row">
             <div class="column" style="background-color:#aaa;">
-                  <h2>Projects and Events</h2>
+                  <h2>Projects</h2>
                   <p>Some text..</p>
             </div>
             <div class="column" style="background-color:#bbb;">
