@@ -10,18 +10,12 @@
 #### We also aspire to bring about an appreciation of advanced technologies, to help bridge the gaps of disparities between advanced economies and Zimbabwe and Africa, through efforts to instil a passion for computing technologies, aligned with data science and machine learning, in the populace. We hope to be a platform for collaboration with a greater global community as well as for different disciplines/fields within Zimbabwe. 
 
 <html>
-      <div class="row">
-            <div class="column" style="background-color:#aaa;">
-                  <h2>Projects</h2>
-                  <p>Some text..</p>
+      <div style="overflow: hidden">
+            <div id="column1" style="float:left; margin:0; width:33%;" markdown="1">
+                  small left column in Markdown format
             </div>
-            <div class="column" style="background-color:#bbb;">
-                  <h2>Team</h2>
-                  <p>Some text..</p>
-            </div>
-            <div class="column" style="background-color:#bbb;">
-                  <h2>Partnerships</h2>
-                  <p>Some text..</p>
+            <div id="column2" style="float:left; margin:0; width:67%;" markdown="1">
+                  long right column in Markdown format happily complying
             </div>
       </div>
 </html>
