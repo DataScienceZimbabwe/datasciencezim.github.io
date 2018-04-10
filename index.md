@@ -7,7 +7,13 @@
 
 #### We would like to encourage the use of data science tools and techniques to lead decision making and make available to all that are interested in data science, pathways and tutorials, opportunities and knowledge of the related fields, with a Zimbabwean and African context.   
 
-#### We also aspire to bring about an appreciation of advanced technologies, to help bridge the gaps of disparities between advanced economies and Zimbabwe and Africa, through efforts to instil a passion for computing technologies, aligned with data science and machine learning, in the populace. We hope to be a platform for collaboration with a greater global community as well as for different disciplines/fields within Zimbabwe.  
+#### We also aspire to bring about an appreciation of advanced technologies, to help bridge the gaps of disparities between advanced economies and Zimbabwe and Africa, through efforts to instil a passion for computing technologies, aligned with data science and machine learning, in the populace. We hope to be a platform for collaboration with a greater global community as well as for different disciplines/fields within Zimbabwe. 
+
+<html>
+      <head>
+        "THIS IS A TRIAL"
+      </head>
+    </html>
 
 
 
