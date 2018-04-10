@@ -10,8 +10,8 @@
 #### We also aspire to bring about an appreciation of advanced technologies, to help bridge the gaps of disparities between advanced economies and Zimbabwe and Africa, through efforts to instil a passion for computing technologies, aligned with data science and machine learning, in the populace. We hope to be a platform for collaboration with a greater global community as well as for different disciplines/fields within Zimbabwe. 
 
 ## Contact us_____________  
-##### Email: datasciencezim@gmail.com 
-##### Twitter: @DataScienceZim
+###### Email: datasciencezim@gmail.com 
+###### Twitter: @DataScienceZim
 
 
 
