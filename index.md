@@ -10,10 +10,21 @@
 #### We also aspire to bring about an appreciation of advanced technologies, to help bridge the gaps of disparities between advanced economies and Zimbabwe and Africa, through efforts to instil a passion for computing technologies, aligned with data science and machine learning, in the populace. We hope to be a platform for collaboration with a greater global community as well as for different disciplines/fields within Zimbabwe. 
 
 <html>
-      <head>
-        "THIS IS A TRIAL"
-      </head>
-    </html>
+      <div class="row">
+            <div class="column" style="background-color:#aaa;">
+                  <h2>Projects and Events</h2>
+                  <p>Some text..</p>
+            </div>
+            <div class="column" style="background-color:#bbb;">
+                  <h2>Team</h2>
+                  <p>Some text..</p>
+            </div>
+            <div class="column" style="background-color:#bbb;">
+                  <h2>Partnerships</h2>
+                  <p>Some text..</p>
+            </div>
+      </div>
+</html>
 
 
 
